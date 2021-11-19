@@ -1,5 +1,5 @@
-# 앱 최신 버전 다운로드
+최신 업데이트
 
-# [KT 모바일 OLT] 
+# [KT 모바일 OLT] v 0.0
 
-# [template](https://drive.google.com/file/d/1wwi0Cf6rrgpBx4_HIhDSQbqSkcEH-GdZ/view?usp=sharing)
+# [template](https://drive.google.com/file/d/1wwi0Cf6rrgpBx4_HIhDSQbqSkcEH-GdZ/view?usp=sharing)  v 0.0
